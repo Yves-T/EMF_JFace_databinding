@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_9-pi0MtUEeGICJrGmGkykQ" type="EcoreTools" name="person.ecorediag" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_9-w3kMtUEeGICJrGmGkykQ" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_9-yFsMtUEeGICJrGmGkykQ" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_9-yswMtUEeGICJrGmGkykQ" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_9-zT0MtUEeGICJrGmGkykQ" type="2001">
+        <element xmi:type="ecore:EAttribute" href="person.ecore#//Phone/number"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_9-zT0ctUEeGICJrGmGkykQ"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_9-yswctUEeGICJrGmGkykQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_9-yswstUEeGICJrGmGkykQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_9-ysw8tUEeGICJrGmGkykQ"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_9-ysxMtUEeGICJrGmGkykQ" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_9-ysxctUEeGICJrGmGkykQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_9-ysxstUEeGICJrGmGkykQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_9-ysx8tUEeGICJrGmGkykQ"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_9-w3kctUEeGICJrGmGkykQ" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="person.ecore#//Phone"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9-w3kstUEeGICJrGmGkykQ" x="25" y="140"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_9-z64MtUEeGICJrGmGkykQ" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_9-z648tUEeGICJrGmGkykQ" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_9-0h8MtUEeGICJrGmGkykQ" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_9-1JAMtUEeGICJrGmGkykQ" type="2001">
+        <element xmi:type="ecore:EAttribute" href="person.ecore#//Person/firstName"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_9-1JActUEeGICJrGmGkykQ"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_9-1JAstUEeGICJrGmGkykQ" type="2001">
+        <element xmi:type="ecore:EAttribute" href="person.ecore#//Person/lastName"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_9-1JA8tUEeGICJrGmGkykQ"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_9-1wEMtUEeGICJrGmGkykQ" type="2001">
+        <element xmi:type="ecore:EAttribute" href="person.ecore#//Person/gender"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_9-1wEctUEeGICJrGmGkykQ"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_9-1wEstUEeGICJrGmGkykQ" type="2001">
+        <element xmi:type="ecore:EAttribute" href="person.ecore#//Person/isMarried"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_9-1wE8tUEeGICJrGmGkykQ"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_9-0h8ctUEeGICJrGmGkykQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_9-0h8stUEeGICJrGmGkykQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_9-0h88tUEeGICJrGmGkykQ"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_9-0h9MtUEeGICJrGmGkykQ" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_9-0h9ctUEeGICJrGmGkykQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_9-0h9stUEeGICJrGmGkykQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_9-0h98tUEeGICJrGmGkykQ"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_9-z64ctUEeGICJrGmGkykQ" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="person.ecore#//Person"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9-z64stUEeGICJrGmGkykQ" x="355" y="135"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_9-pi0ctUEeGICJrGmGkykQ"/>
+  <element xmi:type="ecore:EPackage" href="person.ecore#/"/>
+  <edges xmi:type="notation:Edge" xmi:id="_9-2XIMtUEeGICJrGmGkykQ" type="3002" source="_9-z64MtUEeGICJrGmGkykQ" target="_9-w3kMtUEeGICJrGmGkykQ">
+    <children xmi:type="notation:Node" xmi:id="_9-2XJMtUEeGICJrGmGkykQ" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9-2-MMtUEeGICJrGmGkykQ" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_9-2-MctUEeGICJrGmGkykQ" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9-2-MstUEeGICJrGmGkykQ" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_9-2XIctUEeGICJrGmGkykQ" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_9-2XIstUEeGICJrGmGkykQ" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="person.ecore#//Person/phone"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9-2XI8tUEeGICJrGmGkykQ" points="[0, 0, 0, 60]$[0, -60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9_6uIMtUEeGICJrGmGkykQ" id="(0.49673202614379086,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9_6uIctUEeGICJrGmGkykQ" id="(0.5,1.0)"/>
+  </edges>
+</notation:Diagram>
